@@ -1,14 +1,14 @@
 
-<h1 align="center">Hi 👋, I'm Noe Avila</h1>
+<h1 align="center">Hello!🙋‍♂️ I'm Noe Avila</h1>
 <h3 align="center">An Electrical Engineering undergraduate student from Colorado School of Mines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eonmakesthings&label=Profile%20views&color=0e75b6&style=flat" alt="eonmakesthings" /> </p>
 
-- 🔭 I’m currently working on [documenting a Bluetooth/Radio interface for skiing on my youtube](https://www.youtube.com/@eonmakesthings)
+- ⚡ I’m currently working on [documenting a Bluetooth/Radio interface for skiing on my youtube](https://www.youtube.com/@eonmakesthings)
 
 - 🌱 I’m currently learning **Digital Logic and Circuit Analysis**
 
-- 👨‍💻 All of my projects are available at [https://www.youtube.com/@eonmakesthings](https://www.youtube.com/@eonmakesthings)
+- 🎥 All of my projects are available at [https://www.youtube.com/@eonmakesthings](https://www.youtube.com/@eonmakesthings)
 
 - 💬 Ask me about **Camera lenses and Cinema Gear**
 
@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/eonmakesthings/](https://www.linkedin.com/in/eonmakesthings/)
 
-- ⚡ Fun fact **I play a lot of Magic: the Gathering**
+- 🃏 Fun fact **I play a lot of Magic: the Gathering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
