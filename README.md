@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eonmakesthings&label=Profile%20views&color=0e75b6&style=flat" alt="eonmakesthings" /> </p>
 
-- 🔭 I’m currently working on [documenta Bluetooth/Radio interface for skiing on my youtube](https://www.youtube.com/@eonmakesthings)
+- 🔭 I’m currently working on [documenting a Bluetooth/Radio interface for skiing on my youtube](https://www.youtube.com/@eonmakesthings)
 
 - 🌱 I’m currently learning **Digital Logic and Circuit Analysis**
 
